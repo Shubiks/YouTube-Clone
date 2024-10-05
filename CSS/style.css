@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 @import url("./components/header.css");
 @import url("./components/sidebar.css");
 @import url("./components/video.css");
-@import url("./global/fonts.css");
 @import url("./global/boilerplate.css");
