@@ -48,3 +48,29 @@
     border: none;
     border-radius: 0;
 }
+
+@media(max-width: 425px){
+    .header__search{
+        display: none;
+    }
+    .header__icons .material-icons{
+        display: none;
+    }
+    .header__icons .mobile_view{
+        display: inline;
+    }
+}
+
+@media(max-width: 768px){
+    .header__search{
+        display: none;
+    }
+
+}
+
+@media(max-width: 928px){
+    .header__search input{
+        width: 300px;
+    }
+
+}
